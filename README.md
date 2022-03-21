@@ -4,6 +4,7 @@ One puzzle game
 **\<GameDEMO\>** Game demo complete version:
  1. Want to make option a class
  2. Game level B
+
 **\< GameDame2\>** To fix the old CMD display issues:
 The color display mode is changed, but there is a problem in the command line execution with .Class, which is suspected to be related to a third-party external package when typing the command
 ```
