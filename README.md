@@ -16,3 +16,4 @@ Caused by: java.lang.ClassNotFoundException: com.diogonunes.jcolor.AnsiFormat
         at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
         at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
 ```
+But also found that only the older version of CMD does not run correctly...
