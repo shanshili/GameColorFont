@@ -6,6 +6,7 @@ One puzzle game
  2. Game level B
 
 **\< GameDame2\>** To fix the old CMD display issues:
+
 The color display mode is changed, but there is a problem in the command line execution with .Class, which is suspected to be related to a third-party external package when typing the command
 ```
 Exception in thread "main" java.lang.NoClassDefFoundError: com/diogonunes/jcolor/AnsiFormat
