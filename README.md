@@ -1,5 +1,5 @@
 # GameColorFont
-<table><tr><td bgcolor=yellow>**One puzzle game**</td></tr></table>
+<td bgcolor=yellow>**One puzzle game**</td>
 
 **Select the color of the text or the Font color of the text**
 
