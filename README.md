@@ -1,7 +1,7 @@
-### GameColorFont
-One puzzle game
+# GameColorFont
+<table><tr><td bgcolor=yellow>**One puzzle game**</td></tr></table>
 
-Select the color of the text or the Font color of the text
+**Select the color of the text or the Font color of the text**
 
 **\<GameDEMO\>** Game demo complete version:
  1. Want to make option a class
