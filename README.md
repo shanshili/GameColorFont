@@ -1,6 +1,6 @@
 # GameColorFont
 
-<font color=#67890>**One puzzle game**</font>
+**One puzzle game**
 
 **Select the color of the text or the Font color of the text**
 
